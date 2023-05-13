@@ -13,17 +13,11 @@ Use natural language to create a fully functional genetic circuits!
 <a href="https://github.com/tiangolo/missing/actions?query=workflow%3ATest+event%3Apush+branch%3Amaster" target="_blank">
     <img src="https://img.shields.io/badge/platform-mac%20%7C%20linux%20%7C%20windows-blue" alt="Supported platforms">
 </a>
-<a href="https://coverage-badge.samuelcolvin.workers.dev/redirect/tiangolo/fastapi" target="_blank">
-    <img src="https://coverage-badge.samuelcolvin.workers.dev/tiangolo/fastapi.svg" alt="Coverage">
-</a>
 <a href="https://pypi.org/project/missing" target="_blank">
     <img src="https://img.shields.io/pypi/v/missing?color=%2334D058&label=pypi%20package" alt="Package version">
 </a>
 <a href="https://pypi.org/project/missing" target="_blank">
     <img src="https://img.shields.io/pypi/pyversions/missing.svg?color=%2334D058" alt="Supported Python versions">
-</a>
-<a href="https://github.com/tiangolo/fastapi/actions?query=workflow%3ATest+event%3Apush+branch%3Amaster" target="_blank">
-    <img src="https://github.com/tiangolo/fastapi/workflows/Test/badge.svg?event=push&branch=master" alt="Test">
 </a>
 
 
